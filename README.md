@@ -13,11 +13,7 @@
 * HTML
 * CSS
 
-<<<<<<< HEAD
 ![Component Diagram](/images/ComponentDiagram.PNG)
-=======
-![Component Diagram](/images/ComponentDiagram.png)
->>>>>>> cd75845a4d8bd948e31bf897eed15a19c30a39d9
 
 ## Setup/Installation Requirements
 
