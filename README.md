@@ -13,7 +13,7 @@
 * HTML
 * CSS
 
-![Component Diagram](/images/component-diagram.png)
+![Component Diagram](/images/ComponentDiagram.PNG)
 
 ## Setup/Installation Requirements
 
